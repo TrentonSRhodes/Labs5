@@ -11,14 +11,6 @@ package chapter7Problem11;
  */
 public class testDataResults {
     private int[] testScores = new int[10];
-    
-    public static int testScoresDatabse(){
-    
-    
-    return 0;
-}
-    
-    
-    
+              
     
 }
