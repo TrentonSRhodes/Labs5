@@ -38,6 +38,26 @@ public class testDataResults {
       return average;   
     } 
     
-    
-
+    public void int getLowest(){
+            int total = 0;
+            int lowest = 1000;
+        for (int i = 0; i < 10; i++){
+           if lowest >= testScores[i]{
+               this.lowest = testScores[i];
+           }
+                   
+        }
+      return lowest;   
+    } 
+    public void int getLowest(){
+            int total = 0;
+            int highest = 1000;
+        for (int i = 0; i < 10; i++){
+           if highest >= testScores[i]{
+               this.highest = testScores[i];
+           }
+                   
+        }
+      return highest;   
+    } 
 }
